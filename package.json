@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@discordjs/builders": "^1.8.2",
+    "@discordjs/rest": "^2.3.0",
+    "@discordjs/voice": "^0.17.0",
+    "axios": "^1.7.2",
+    "discord-api-types": "^0.37.87",
+    "discord.js": "^14.15.3",
+    "dotenv": "^16.4.5",
+    "play-dl": "^1.9.7",
+    "sodium-native": "^4.1.1",
+    "winston": "^3.13.0"
+  }
+}
